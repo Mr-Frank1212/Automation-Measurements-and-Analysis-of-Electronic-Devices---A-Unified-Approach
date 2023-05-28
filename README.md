@@ -1,2 +1,3 @@
-# Automation-Measurements-and-Analysis-of-Electronic-Devices---A-Unified-Approach
-Masters Dissertation
+Using Standard command for programming insturments(SCPI) to control laboratory equipment.
+Automatically measures and self analyses the single pulse response of electronic devices.
+(Masters Dissertation)
